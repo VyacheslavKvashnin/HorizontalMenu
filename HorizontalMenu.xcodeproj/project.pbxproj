@@ -14,6 +14,7 @@
 		BD6760EE290442B900CEF145 /* MainImageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6760ED290442B900CEF145 /* MainImageView.swift */; };
 		BD6760F229044F1700CEF145 /* HorizontalCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6760F129044F1700CEF145 /* HorizontalCollectionView.swift */; };
 		BD6760F42904528A00CEF145 /* HorizontalCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6760F32904528A00CEF145 /* HorizontalCollectionViewCell.swift */; };
+		BDAAA5782905C53B0043D473 /* VerticalCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BDAAA5772905C53B0043D473 /* VerticalCollectionView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		BD6760ED290442B900CEF145 /* MainImageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainImageView.swift; sourceTree = "<group>"; };
 		BD6760F129044F1700CEF145 /* HorizontalCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalCollectionView.swift; sourceTree = "<group>"; };
 		BD6760F32904528A00CEF145 /* HorizontalCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HorizontalCollectionViewCell.swift; sourceTree = "<group>"; };
+		BDAAA5772905C53B0043D473 /* VerticalCollectionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalCollectionView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 				BD6760D9290440B800CEF145 /* AppDelegate.swift */,
 				BD6760DD290440B800CEF145 /* ViewController.swift */,
 				BD6760ED290442B900CEF145 /* MainImageView.swift */,
+				BDAAA5772905C53B0043D473 /* VerticalCollectionView.swift */,
 				BD6760F32904528A00CEF145 /* HorizontalCollectionViewCell.swift */,
 				BD6760F129044F1700CEF145 /* HorizontalCollectionView.swift */,
 				BD6760E2290440B900CEF145 /* Assets.xcassets */,
@@ -140,6 +143,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BDAAA5782905C53B0043D473 /* VerticalCollectionView.swift in Sources */,
 				BD6760F42904528A00CEF145 /* HorizontalCollectionViewCell.swift in Sources */,
 				BD6760EE290442B900CEF145 /* MainImageView.swift in Sources */,
 				BD6760DE290440B800CEF145 /* ViewController.swift in Sources */,
