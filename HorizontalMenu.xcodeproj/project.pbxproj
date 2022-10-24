@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		BD2763B12906780F00A6EE19 /* VerticalCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD2763B02906780F00A6EE19 /* VerticalCollectionViewCell.swift */; };
 		BD6760DA290440B800CEF145 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6760D9290440B800CEF145 /* AppDelegate.swift */; };
 		BD6760DE290440B800CEF145 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BD6760DD290440B800CEF145 /* ViewController.swift */; };
 		BD6760E3290440B900CEF145 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BD6760E2290440B900CEF145 /* Assets.xcassets */; };
@@ -18,6 +19,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		BD2763B02906780F00A6EE19 /* VerticalCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = VerticalCollectionViewCell.swift; sourceTree = "<group>"; };
 		BD6760D6290440B800CEF145 /* HorizontalMenu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = HorizontalMenu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BD6760D9290440B800CEF145 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		BD6760DD290440B800CEF145 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -63,6 +65,7 @@
 				BD6760D9290440B800CEF145 /* AppDelegate.swift */,
 				BD6760DD290440B800CEF145 /* ViewController.swift */,
 				BD6760ED290442B900CEF145 /* MainImageView.swift */,
+				BD2763B02906780F00A6EE19 /* VerticalCollectionViewCell.swift */,
 				BDAAA5772905C53B0043D473 /* VerticalCollectionView.swift */,
 				BD6760F32904528A00CEF145 /* HorizontalCollectionViewCell.swift */,
 				BD6760F129044F1700CEF145 /* HorizontalCollectionView.swift */,
@@ -148,6 +151,7 @@
 				BD6760EE290442B900CEF145 /* MainImageView.swift in Sources */,
 				BD6760DE290440B800CEF145 /* ViewController.swift in Sources */,
 				BD6760F229044F1700CEF145 /* HorizontalCollectionView.swift in Sources */,
+				BD2763B12906780F00A6EE19 /* VerticalCollectionViewCell.swift in Sources */,
 				BD6760DA290440B800CEF145 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
